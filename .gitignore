@@ -1,10 +1,7 @@
 *.out
-*.cor
 *.o
 *.a
-*.s
 test*
-asm
 *corewar
 *.log
 vm
